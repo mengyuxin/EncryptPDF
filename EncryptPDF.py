@@ -12,6 +12,7 @@ Reference:
     https://docs.python.org/3/
     http://pythonhosted.org/PyPDF2/
     https://github.com/mstamy2/PyPDF2
+    https://github.com/mengyuxin/EncryptPDF
     https://pypi.python.org/pypi/PyPDF2/1.26.0
     
 PyPDF2 is a pure-python PDF library capable of splitting, merging together, cropping, and transforming the pages of PDF files. 
